@@ -27,3 +27,6 @@ SyntaxError: Unexpected token .
     at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
     
     
+THIS IS WHAT I FOLLOWED TO FIX ALL NODE/NPM issues: 
+https://www.freecodecamp.org/news/how-to-update-node-and-npm-to-the-latest-version/
+
